@@ -1,7 +1,5 @@
 ## Hi! 👋 I'm Marcos
 
-I'm a Web Application Developer from Madrid. I studied at IES María de Zayas y Sotomayor.
-
 ### 💻 Technologies I use
 
 **Frontend**
